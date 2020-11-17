@@ -20,7 +20,7 @@ A website used to introduce our restaurant and shows user our menu , chefs and r
 A little intro about the installation.
 
 ```
-$ git clone https://example.com
+$ git clone https://github.com/omarklamawy/Restaurant-website-template.git
 $ cd ../path/to/the/file
 open index.html in browser
 ```
